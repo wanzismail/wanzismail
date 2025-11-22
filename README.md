@@ -11,14 +11,12 @@ I love learning, building cool things, and sharing insights along the way.
 Tech, creativity, faith, and personal growth — that’s the road I'm walking on.
 
 ## 🔥 What I'm currently active as</h2>
-<p align="left">
-- Mobile Engineer — Jabar Digital Service <br>
-- Volunteer — GDG Cloud Bandung <br>
-- Member — Yuk Ngaji Bandung <br>
-- Creative Team — Shaf Pembangunan <br>
-- Content Creator — CapCut Video Editor <br>
+- Mobile Engineer — Jabar Digital Service
+- Volunteer — GDG Cloud Bandung
+- Member — Yuk Ngaji Bandung
+- Creative Team — Shaf Pembangunan 
+- Content Creator — CapCut Video Editor
 - and many more!
-</p>
 
 ## 🛠️ Tech Arsenal
 
