@@ -59,14 +59,14 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
     <td width="50%">
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=github-light&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=24292e&text_color=24292e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=0366d6&text_color=24292e&card_width=495">
   <img alt="Ridwan Ismail GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
 </picture>
     </td>
     <td width="50%">
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=github-light&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e&langs_count=8">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
 </picture>
     </td>
