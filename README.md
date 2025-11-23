@@ -57,31 +57,35 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 <table>
   <tr>
     <td width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF" 
-        alt="Ridwan Ismail GitHub Stats"
-      />
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=github-light&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=24292e&text_color=24292e">
+  <img alt="Ridwan Ismail GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
+</picture>
     </td>
     <td width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF"
-        alt="Most Used Languages"
-      />
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=github-light&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
+</picture>
     </td>
   </tr>
 </table>
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0" 
-  alt="GitHub Streak"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=github-light&hide_border=true&background=ffffff&stroke=0366d6&ring=FF6B6B&fire=FF6B6B&currStreakLabel=24292e">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0">
+</picture>
 
 ### 🏆 GitHub Trophies
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1" 
-  alt="Trophy"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=github-light&no-frame=true&no-bg=true&margin-w=24&row=1">
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
+</picture>
 
 </div>
 
