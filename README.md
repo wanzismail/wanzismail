@@ -99,11 +99,11 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
 </picture>
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/pacman-contribution-graph-dark.svg">
