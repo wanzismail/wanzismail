@@ -11,7 +11,7 @@
 I love learning, building cool things, and sharing insights along the way.  
 Tech, creativity, faith, and personal growth — that’s the road I'm walking on.
 
-## 🔥 What I'm currently active as</h2>
+## 🔥 Currently, I am active as</h2>
 
 - Mobile Engineer — Jabar Digital Service
 - Volunteer — GDG Cloud Bandung
